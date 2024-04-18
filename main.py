@@ -60,7 +60,7 @@ def screen(copy_flag):
     # Захватываем изображение экрана в заданных координатах
     screenshot = ImageGrab.grab(bbox=(min(x1, x2), min(y1, y2), max(x1, x2), max(y1, y2)))
     # Сохраняем скриншот в файл
-    screen_path = "C:\\Users\\Moldovan_Gaming\\Pictures\\Screenshots\\screen.png"
+    screen_path = "C:\\Users\\User_name\\Pictures\\Screenshots\\screen.png"
     screenshot.save(screen_path)
 
     if copy_flag==True:
