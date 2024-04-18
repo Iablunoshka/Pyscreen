@@ -1,8 +1,5 @@
 # Pyscreen
 
-
-### AutoCapture Tool
-
 This Python script provides an automated screen capture tool with additional functionality to copy either text or images to the clipboard based on user-defined actions.
 
 ### Features:
