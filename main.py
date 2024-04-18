@@ -1,4 +1,3 @@
-import pyautogui
 from PIL import ImageGrab, Image
 from pynput.mouse import Listener, Button
 from pynput import keyboard as kb
@@ -7,7 +6,6 @@ import win32clipboard
 from io import BytesIO
 import keyboard
 import pytesseract
-import pyperclip
 
 x1, y1, x2, y2 = None, None, None, None
 alt_pressed = False
