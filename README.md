@@ -26,4 +26,6 @@ This Python script provides an automated screen capture tool with additional fun
 - Ensure that Tesseract OCR and its language packs are installed and configured properly for accurate text recognition.
 - This tool is primarily designed for Windows operating systems due to its reliance on `win32clipboard`.
 
-Feel free to modify and adapt this script to suit your specific requirements! If you encounter any issues or have suggestions for improvements, please don't hesitate to create an issue or pull request.
+## Contact
+
+If you have questions or suggestions, feel free to reach out to me on Discord: 6masia9
