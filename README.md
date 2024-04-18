@@ -1,13 +1,11 @@
 # Pyscreen
 
-GitHub Description:
 
 ### AutoCapture Tool
 
 This Python script provides an automated screen capture tool with additional functionality to copy either text or images to the clipboard based on user-defined actions.
 
 ### Features:
-- **Mouse Events:** Captures screen areas based on left mouse button clicks while certain keyboard combinations are held down.
 - **Keyboard Shortcuts:** Detects and responds to keyboard shortcuts for initiating specific actions.
 - **Text Recognition:** Utilizes Tesseract OCR to extract text from captured screen areas and copy it to the clipboard.
 - **Image Capture:** Copies the captured screen area as an image to the clipboard.
