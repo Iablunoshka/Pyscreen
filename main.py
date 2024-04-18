@@ -88,4 +88,4 @@ def screen(copy_flag):
 # Запуск прослушивания событий мыши и клавиатуры
 with Listener(on_click=on_click) as mouse_listener:
     with kb.Listener(on_press=on_key_press, on_release=on_key_release) as keyboard_listener:
-        keyboard.wait('q')
+        keyboard.wait('win+q')
