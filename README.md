@@ -13,7 +13,7 @@ This Python script provides an automated screen capture tool with additional fun
 - `pynput`: Used for monitoring mouse and keyboard events.
 - `pytesseract`: Integrates Tesseract OCR for text recognition.
 - `win32clipboard`: Enables interaction with the Windows clipboard.
-- `keyboard`: Аor For easy exit
+- `keyboard`: For easy exit.
 ### Usage:
 1. Run the script.
 2. Press and hold the left mouse button while simultaneously pressing `Alt` to capture a screen area and copy text.
