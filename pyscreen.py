@@ -71,8 +71,8 @@ def coordinates(x, y):
     else:
         x2 = x
         y2 = y
-        print(f"Начальные координаты: X = {x1}, Y = {y1}")
-        print(f"Конечные координаты: X = {x2}, Y = {y2}")
+        print(f"Start coordinates: X = {x1}, Y = {y1}")
+        print(f"End coordinates: X = {x2}, Y = {y2}")
         screen()
 
 def screen():
